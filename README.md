@@ -1,2 +1,2 @@
 # imobi
-### Aplicação web para uma imobiliaria desenvolvido em Django (projeto de estudo)
+### Aplicação web para uma imobiliaria desenvolvido em Django (projeto de estudo Pythonando)
